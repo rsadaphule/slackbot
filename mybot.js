@@ -1,7 +1,10 @@
 //This is slackbot demo
 
+
 var Bot = require('slackbots');
 var request = require('request');
+
+//incorprated code review comment
 
 var fs = require('fs');
 var readline = require('readline');
