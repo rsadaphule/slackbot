@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot for slack integration",
+  "main": "mybot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravindra sadaphule",
+  "scripts": {
+    "start": "node mybot.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^16.1.0",
+    "slackbots": "^1.0.2"
+  }
+}
